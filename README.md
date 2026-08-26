@@ -155,6 +155,6 @@ UR5e MJCF XML from [MuJoCo Menagerie](https://github.com/deepmind/mujoco_menager
 
 <!--- You can post your queries on the [MATLAB&reg; Central&trade; File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/####-file-exchange-title) page. --->
 
-You can post your queries in the discussions section.
+This software is provided **as-is**, without warranty of any kind, and is not part of any MathWorks product or officially supported product release. It is provided as a community resource for demonstration and educational purposes. Questions, issues, and bug reports related to this software should be submitted through the associated GitHub repository or the appropriate MathWorks community discussion forum.
 
-Copyright 2023 The MathWorks, Inc.
+Copyright 2026 The MathWorks, Inc.
